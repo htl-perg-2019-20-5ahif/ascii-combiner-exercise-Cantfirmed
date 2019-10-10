@@ -1,0 +1,14 @@
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExercise.exe
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExercise.deps.json
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExercise.runtimeconfig.json
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExercise.runtimeconfig.dev.json
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExercise.dll
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExercise.pdb
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\obj\Debug\netcoreapp3.0\AsciiExercise.csprojAssemblyReference.cache
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\obj\Debug\netcoreapp3.0\AsciiExercise.AssemblyInfoInputs.cache
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\obj\Debug\netcoreapp3.0\AsciiExercise.AssemblyInfo.cs
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\obj\Debug\netcoreapp3.0\AsciiExercise.dll
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\obj\Debug\netcoreapp3.0\AsciiExercise.pdb
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExerciseLibrary.dll
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\bin\Debug\netcoreapp3.0\AsciiExerciseLibrary.pdb
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExercise\obj\Debug\netcoreapp3.0\AsciiExercise.csproj.CopyComplete

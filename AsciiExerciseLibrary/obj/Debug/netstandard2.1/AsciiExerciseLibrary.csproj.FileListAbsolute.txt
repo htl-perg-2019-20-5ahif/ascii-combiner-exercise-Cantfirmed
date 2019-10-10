@@ -1,0 +1,8 @@
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\bin\Debug\netstandard2.1\AsciiExerciseLibrary.deps.json
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\bin\Debug\netstandard2.1\AsciiExerciseLibrary.dll
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\bin\Debug\netstandard2.1\AsciiExerciseLibrary.pdb
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\obj\Debug\netstandard2.1\AsciiExerciseLibrary.csprojAssemblyReference.cache
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\obj\Debug\netstandard2.1\AsciiExerciseLibrary.AssemblyInfoInputs.cache
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\obj\Debug\netstandard2.1\AsciiExerciseLibrary.AssemblyInfo.cs
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\obj\Debug\netstandard2.1\AsciiExerciseLibrary.dll
+D:\AHIF5\C#\ascii-combiner-exercise-Cantfirmed\AsciiExerciseLibrary\obj\Debug\netstandard2.1\AsciiExerciseLibrary.pdb

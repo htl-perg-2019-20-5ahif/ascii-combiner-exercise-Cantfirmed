@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AsciiExerciseLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/AsciiExerciseLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AsciiExerciseLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsciiExerciseLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AsciiExerciseLibrary/AsciiExerciseLibrary.csproj",
+      "msbuildProject": "../AsciiExerciseLibrary/AsciiExerciseLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "AsciiExerciseLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\patri\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\AHIF5\\C#\\ascii-combiner-exercise-Cantfirmed\\AsciiExercise\\AsciiExercise.csproj",
+      "projectName": "AsciiExercise",
+      "projectPath": "D:\\AHIF5\\C#\\ascii-combiner-exercise-Cantfirmed\\AsciiExercise\\AsciiExercise.csproj",
+      "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
+      "outputPath": "D:\\AHIF5\\C#\\ascii-combiner-exercise-Cantfirmed\\AsciiExercise\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\AHIF5\\C#\\ascii-combiner-exercise-Cantfirmed\\AsciiExerciseLibrary\\AsciiExerciseLibrary.csproj": {
+              "projectPath": "D:\\AHIF5\\C#\\ascii-combiner-exercise-Cantfirmed\\AsciiExerciseLibrary\\AsciiExerciseLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

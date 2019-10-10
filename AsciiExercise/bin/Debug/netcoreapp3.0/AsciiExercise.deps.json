@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AsciiExercise/1.0.0": {
+        "dependencies": {
+          "AsciiExerciseLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AsciiExercise.dll": {}
+        }
+      },
+      "AsciiExerciseLibrary/1.0.0": {
+        "runtime": {
+          "AsciiExerciseLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsciiExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsciiExerciseLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

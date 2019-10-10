@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AsciiExercise": {
+      "commandName": "Project",
+      "commandLineArgs": "hg1.txt"
+    }
+  }
+}
